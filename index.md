@@ -7,9 +7,10 @@ Snazime sa organizovat udalosti podobne nemeckym Chaos Communication Campom, hol
 
 ## Zoznam akcii
 
-| datum                   | akcia                 | miesto               |
-|-------------------------|-----------------------|----------------------|
-| ???                     | [CTJB 2018](2018.md)  | ???                  |
-| 01.09.2016 - 04.09.2016 | [CTJB 2016](2016.md)  | Vir, Ceska Republika |
-| 30.04.2015 - 03.05.2015 | [CTJB 2015](2015.md)  | Zaruby, Slovensko    |
-| 12.09.2014 - 14.09.2014 | [CTJB 2014](2014.md)  | Zaruby, Slovensko    |
+| datum                   | akcia                          | miesto               |
+|-------------------------|--------------------------------|----------------------|
+| ???                     | [CTJB 2019](2019.md)           | TBA                  |
+| 06.09.2017 - 10.09.2017 | [NTPC 2017](https://ntpc.wtf/) | Vir, Ceska Republika |
+| 01.09.2016 - 04.09.2016 | [CTJB 2016](2016.md)           | Vir, Ceska Republika |
+| 30.04.2015 - 03.05.2015 | [CTJB 2015](2015.md)           | Zaruby, Slovensko    |
+| 12.09.2014 - 14.09.2014 | [CTJB 2014](2014.md)           | Zaruby, Slovensko    |
