@@ -1,7 +1,8 @@
 # CTJB
 
 CTJB je neformalna metaorganizacia, volne zdruzujuca ludi z prostredia ceskoslovenskych hackerpacov
-([Brmlab](https://brmlab.cz/), [Base48](http://base48.cz/), [Progressbar](https://progressbar.sk/), [v01d](http://v01d.sk/)), ci [labka](https://labka.cz/), komunit ([Hysteria](http://hysteria.sk/), [Kyberia](https://kyberia.sk/)), pripadne inych entit [Paralelni Polis](http://paralelnipolis.cz/).
+([Brmlab](https://brmlab.cz/), [Base48](http://base48.cz/), [Progressbar](https://progressbar.sk/), [v01d](http://v01d.sk/), [labka](https://labka.cz/))
+a komunit ([Hysteria](http://hysteria.sk/), [Kyberia](https://kyberia.sk/)).
 
 Snazime sa organizovat udalosti podobne nemeckym Chaos Communication Campom, holandskymi hackcampom ci lokalnym DIY festivalom, volne nadvazujuce na neformalne Hysteria sessions z minulych rokov, rozsirujuc ich povodny zaber. Jadrom akcii by stale malo byt technicke zameranie, prednasky, workshopy a zdielanie vedomosti, ale nebranime sa ani pridruzenej kulture, filozofii ci socializacii. :-)
 
