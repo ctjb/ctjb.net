@@ -6,6 +6,8 @@ Are you in need of a development board or another hardware for your cool project
 
 Worry no more, we have a solution for you!
 
+![hwex](hwex.jpg)
+
 ## How does it work?
 
 1. Think of a project you need a hardware for (You already did that, right? Great!)
