@@ -2,9 +2,9 @@
 
 ## E-mail
 
-[ctjb@ctjb.net](mailto:ctjb@ctjb.net)
+Ak chcete cokolvek odkazat organizatorom pripadne si prihlasit talk/aktivitu:
 
-[GPG kluc](https://pgp.mit.edu/pks/lookup?op=get&search=0xAEE3F8B81434378E)
+[ctjb@ctjb.net](mailto:ctjb@ctjb.net)
 
 ## IRC
 
