@@ -12,16 +12,15 @@ Ak chcete cokolvek odkazat organizatorom pripadne si prihlasit talk/aktivitu:
 
 ## Mailing listy
 
-Announce mailinglist (iba dolezite oznamenia od organizatorov): **ctjb-announce@lists.riseup.net**
+Announce mailinglist (iba dolezite oznamenia od organizatorov):
+
+* adresa: [ctjb-announce@lists.riseup.net](mailto:ctjb-announce@lists.riseup.net)
+* prihlasenie: [https://lists.riseup.net/www/subscribe/ctjb-announce](https://lists.riseup.net/www/subscribe/ctjb-announce)
+
+Free for all mailinglist o vsetkom moznom aj nemoznom:
 
 * adresa: [ctjb-talk@lists.riseup.net](mailto:ctjb-talk@lists.riseup.net)
-* prihlasenie: [ctjb-talk+subscribe@lists.riseup.net](mailto:ctjb-talk+subscribe@lists.riseup.net)
-* archiv: [https://lists.riseup.net/www/arc/ctjb-announce](https://lists.riseup.net/www/arc/ctjb-announce)
-
-Free for all mailinglist o vsetkom moznom aj nemoznom: **ctjb-talk@lists.riseup.net**
-
-* adresa: [ctjb-talk@lists.riseup.net](mailto:ctjb-talk@lists.riseup.net)
-* prihlasenie: [ctjb-talk+subscribe@lists.riseup.net](mailto:ctjb-talk+subscribe@lists.riseup.net)
+* prihlasenie: [https://lists.riseup.net/www/subscribe/ctjb-talk](https://lists.riseup.net/www/subscribe/ctjb-talk)
 * archiv: [https://lists.riseup.net/www/arc/ctjb-announce](https://lists.riseup.net/www/arc/ctjb-announce)
 
 ## Kryptomeny
