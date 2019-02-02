@@ -23,7 +23,3 @@ Free for all mailinglist o vsetkom moznom aj nemoznom:
 * adresa: [ctjb-talk@lists.riseup.net](mailto:ctjb-talk@lists.riseup.net)
 * prihlasenie: [https://lists.riseup.net/www/subscribe/ctjb-talk](https://lists.riseup.net/www/subscribe/ctjb-talk)
 * archiv: [https://lists.riseup.net/www/arc/ctjb-talk](https://lists.riseup.net/www/arc/ctjb-talk)
-
-## Kryptomeny
-
-* Bitcoin: [1CTJB7weEPcvJabmyqnt4vwJazkKgMpKGK](https://blockchain.info/address/1CTJB7weEPcvJabmyqnt4vwJazkKgMpKGK)
