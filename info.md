@@ -4,11 +4,10 @@
 
 Par postrehov a informacii, ktore platia vseobecne pre vsetky akcie.
 
-* ideme do lesa, vhodne sa oblecte a obute
-* sprchy su spolocne, predpokladame ze vytvorite skupinky, ktore budu spolu chodit a nebude jeden clovek sam blokovat cele umyavarky
-* ak mate nejake zdravotne problemy, o ktorych by sme mali vediet, oznamte nam to a aj ludom ktori s vami budu travit vacsinu casu, aby sme vam pripadne vedeli adekvatne pomoct
+* ideme do prirody, vhodne sa oblecte a obute
+* ak mate nejake zdravotne problemy, o ktorych by sa malo vediet, oznamte to ludom, ktori s vami budu travit vacsinu casu, aby vam pripadne vedeli adekvatne pomoct
 * ak chcete fotit, prosime vzdy sa opytajte danych ludi, ci s tym suhlasia
-* tak ako vzdy, vzajomne sa respektujme a lubme :-)
+* tak ako vzdy, vzajomne sa respektujme a majme sa radi! :-)
 
 ## Checklist pre ucastnikov
 
@@ -24,20 +23,15 @@ Par postrehov a informacii, ktore platia vseobecne pre vsetky akcie.
 * nohavice
 * kratke gate
 * termopradlo (hlavne damy)
-* teplaky / sportove oblecneie (na jogu a spol)
-* kostym na volnu temu
-* nieco s maskacovym vzorom
-* papuce
+* teplaky / sportove oblecneie
+* papuce / pantofle
 
 ### Vybavenie
 
 * celovka / baterka
-* predlzovacka
-* ethernetovy kabel
 * stuple do usi ak vam vadi hluk
-* jogamatka
-* papier, pero
-* notebook s nabijackou (ako to kto v srdiecku citi)
+* poznamkovy blok
+* pero/propiska/tuzka/fixka
 * hrncek na caj / kavu
 * jedlo
 * lieky (ak nejake uzivate)
@@ -45,13 +39,13 @@ Par postrehov a informacii, ktore platia vseobecne pre vsetky akcie.
 * uterak
 * repelent
 
-## Checklist pre organizatorov
+### Elektronika (optional)
 
-* predlzovacky
-* switche
-* ethernet kable
-* APcka
-* projektory
-* PMR vysielacky (kanal 3 = 446.03125 MHz)
-* club mate
-* cincila
+* telefon + nabijacka
+* powerbanka
+* notebook + nabijacka
+* predlzovacka (aka PES)
+* ethernetovy kabel
+* vysielacka (PMR kanal 3 = 446.03125 MHz)
+* SDR
+* pajkovacka
