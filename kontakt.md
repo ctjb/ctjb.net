@@ -2,4 +2,4 @@
 
 ## IRC
 
-**#ctjb @ irc.freenode.net**
+**#ctjb @ irc.libera.chat**
